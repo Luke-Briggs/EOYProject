@@ -222,6 +222,7 @@ def emp_sal_change(salary_list, firstname_list, surname_list, email_list, employ
 
 # Rewriting the file so the deleted person, or added is saved.
 def reWriteData(employee_id_list, firstname_list, surname_list, email_list, salary_list):
+    
     # open the file and write to it
     filename = "project.txt"
     data_file = open(filename, "w")
