@@ -2,7 +2,6 @@
 # R00172161
 # Project 2019
 #
-#
 # Need a main function, load_data, view specific employee, edit salary,
 # add employee, delete employee, give bonus to all employees, Generate report and Quit.
 
